@@ -26,7 +26,7 @@ TASKS FOR TODAY
 9. If the score is greater than 10, use .innerHTML on the message div you selected for in step 7 to print a final message to the user telling them they have the new high score.  
 ![](https://media.giphy.com/media/NB2zoadASgwHHSSBai/giphy.gif)
 10. If the lives reach 0, use .innerHTML on the message div you selected for in step 7 to print a final message telling the user that the game is over.  
-![](https://media.giphy.com/media/1upn2bYXOKcvIjOO5w/giphy.gif) 
+![](https://media.giphy.com/media/1upn2bYXOKcvIjOO5w/giphy.gif)  
 **BONUS**: If you want to style your final game over screen you can add some additional lines using the `<style></style>` tags. These are tags we can use to add style rules inside of HTML. For example, to get a black background for the game over message screen you could do:  
 ```javascript
 messageContainer.innerHTML = `
